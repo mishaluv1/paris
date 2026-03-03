@@ -14,7 +14,7 @@ function AdminLogin(){
 
  const login = ()=>{
 
-   if(email === "admin@gmail.com" && password === "123456"){
+   if(email === "paris@gmail.com" && password === "8606337533"){
      localStorage.setItem("admin","true");
      navigate("/admin/dashboard");
    }else{
