@@ -167,7 +167,7 @@ const [isOpen, setIsOpen] = useState(false);
     <div className="absolute z-50 mt-1 w-full bg-white border rounded shadow-lg max-h-48 overflow-y-auto">
       
       {[
-        "Soups(veg)", "Soups", "Starters(veg)", "Starters",
+        "Soups(veg)", "Soups", "Starters(veg)", "Starters","Bread","Rotti&Nan","Veg gravy","Gravy","Rice items","Fried rice",
         "BBQ", "Noodles", "Tandoori items", "Shawarma",
         "Fresh juice", "Pure juice", "Lemonade/soda",
         "Shakes", "Special shake", "Mojitos",
